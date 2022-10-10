@@ -1,6 +1,6 @@
 {
-    "name": "olx_multi_vendor",
-    "short_name": "olx_multi_vendor",
+    "name": "mulit_ven",
+    "short_name": "mulit_ven",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
